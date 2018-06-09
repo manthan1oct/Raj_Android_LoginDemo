@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Question One</string>
+
+    <string name="internet_connection_msg">Internet connection is not available.</string>
+
+
+
+    <!--Screen Title-->
+    <string name="login_screen">Login</string>
+
+    <!--Login screen Message-->
+
+    <string name="str_user_name">UserName</string>
+    <string name="str_password">Password</string>
+    <string name="str_login">Login</string>
+
+    <string name="str_err_msg_empty_user_name">Please enter user name</string>
+    <string name="str_err_msg_empty_password">Please enter password</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_failed">Login failed</string>
+    <string name="loading">Loading...</string>
+
+
+</resources>
